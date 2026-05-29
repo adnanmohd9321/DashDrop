@@ -18,9 +18,9 @@ DashDrop is a mobile delivery game built with Unity where players ride a scooter
 * C#
 * URP (Universal Render Pipeline)
 
-## Screenshots
+## Gamelpay
 
-Add screenshots of your game here.
+https://drive.google.com/file/d/14C-9gG4OLQ446XcKPxMy8R3eJsNaza1b/view?usp=drive_link
 
 ## How to Play
 
